@@ -7,6 +7,6 @@ class hello{
 		int a = 100;
 		System.out.print("Hello Wrold");
 		
-		System.out.print("主分支");
+		System.out.print("dev2分支");
 	}
 }
